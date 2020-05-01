@@ -1,3 +1,5 @@
+package com.hashmap;
+
 public class ImplementHashMap {
     private static final int SIZE = 16;
     private Entry[] table = new Entry[SIZE];

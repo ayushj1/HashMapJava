@@ -1,3 +1,5 @@
+package com.hashmap;
+
 public class Entry {
     private final String key;
     private String value;
